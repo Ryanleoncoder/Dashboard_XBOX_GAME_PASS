@@ -4,6 +4,13 @@ Este projeto consiste na criação de um **Dashboard interativo no Excel** para 
 
 ---
 
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/Ryanleoncoder/Dashboard_XBOX_GAME_PASS/blob/main/Imagem%20do%20Dashboard/Painel%20PBI%20Publicado.PNG?raw=true" alt="Painel Power BI" width="400"/>
+  <p style="margin-left: 20px;">
+    <strong>Dashboard Xbox Game Pass Versão PBI</strong><br>
+  </p>
+</div>
+
 ## 📊 Objetivo do Projeto
 
 Fornecer uma visão clara e visualmente intuitiva sobre:
@@ -65,4 +72,4 @@ O dashboard em Excel contém:
 ## ✅ Status do Projeto
 ✅ Finalizado.
 
-✅ Versão em Power BI
+✅ Versão em Power BI 
