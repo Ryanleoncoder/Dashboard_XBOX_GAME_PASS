@@ -64,4 +64,5 @@ O dashboard em Excel contém:
 - Habilitar macros e filtros interativos, se solicitado
 ## ✅ Status do Projeto
 ✅ Finalizado.
+
 ✅ Versão em Power BI
