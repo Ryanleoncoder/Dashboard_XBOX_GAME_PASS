@@ -54,7 +54,7 @@ O dashboard em Excel contém:
 1. Faça o download ou clone este repositório:
    ```bash
    git clone https://github.com/seu-usuario/Dashboard_XBOX_GAME_PASS.git
-2. Abra o arquivo Dashboard de vendas xbox.xlsx no Microsoft Excel 2016 ou superior.
+2. Abra o arquivo ``` Dashboard de vendas xbox.xlsx ``` no Microsoft Excel 2016 ou superior.
 
 3. Utilize os filtros do painel lateral esquerdo para explorar os dados por tipo de assinatura.
 
@@ -63,4 +63,4 @@ O dashboard em Excel contém:
 
 - Habilitar macros e filtros interativos, se solicitado
 ## ✅ Status do Projeto
-✅ Finalizado e pronto para entrega.
+✅ Finalizado.
