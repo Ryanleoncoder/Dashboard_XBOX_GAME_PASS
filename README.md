@@ -30,7 +30,9 @@ Fornecer uma visão clara e visualmente intuitiva sobre:
 ## 📁 Estrutura do Repositório
 
 📦 Dashboard_XBOX_GAME_PASS/
-- 📄 README.md  
+- 📄 README.md
+- 📁 imagem deshboard
+- 📁 Painel xbox versão Power BI
 - 📊 Dashboard_de_vendas_xbox.xlsx
 
 
