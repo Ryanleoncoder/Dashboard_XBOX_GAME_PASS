@@ -31,7 +31,7 @@ Fornecer uma visão clara e visualmente intuitiva sobre:
 
 📦 Dashboard_XBOX_GAME_PASS/
 - 📄 README.md
-- 📁 imagem deshboard
+- 📁 Imagem do Dashboard
 - 📁 Painel xbox versão Power BI
 - 📊 Dashboard_de_vendas_xbox.xlsx
 
