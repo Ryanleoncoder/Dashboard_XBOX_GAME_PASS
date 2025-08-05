@@ -7,7 +7,7 @@ Este projeto consiste na criação de um **Dashboard interativo no Excel** para 
   <tr>
     <td align="center">
       <img src="https://github.com/Ryanleoncoder/Dashboard_XBOX_GAME_PASS/blob/main/Imagem%20do%20Dashboard/Painel%20PBI%20Publicado.PNG?raw=true" width="300" alt="Painel Power BI"/><br/>
-      <b>Dashboard Power BI</b>
+      <b>Dashboard Versão Power BI</b>
     </td>
     <td align="center">
       <img src="https://github.com/Ryanleoncoder/Dashboard_XBOX_GAME_PASS/blob/main/Imagem%20do%20Dashboard/Painel%20Excel.PNG?raw=true" width="300" alt="Versão Excel"/><br/>
