@@ -3,13 +3,18 @@
 Este projeto consiste na criação de um **Dashboard interativo no Excel** para análise de vendas de assinaturas do serviço **Xbox Game Pass**, incluindo add-ons como **EA Play** e **Minecraft**, além da aplicação de **cupons de desconto**.
 
 ---
-
-<div style="display: flex; align-items: center;">
-  <img src="https://github.com/Ryanleoncoder/Dashboard_XBOX_GAME_PASS/blob/main/Imagem%20do%20Dashboard/Painel%20PBI%20Publicado.PNG?raw=true" alt="Painel Power BI" width="400"/>
-  <p style="margin-left: 20px;">
-    <strong>Dashboard Xbox Game Pass Versão PBI</strong><br>
-  </p>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Ryanleoncoder/Dashboard_XBOX_GAME_PASS/blob/main/Imagem%20do%20Dashboard/Painel%20PBI%20Publicado.PNG?raw=true" width="300" alt="Painel Power BI"/><br/>
+      <b>Dashboard Power BI</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Ryanleoncoder/Dashboard_XBOX_GAME_PASS/blob/main/Imagem%20do%20Dashboard/Painel%20Excel.PNG?raw=true" width="300" alt="Versão Excel"/><br/>
+      <b> Dashboard Versão Excel</b>
+    </td>
+  </tr>
+</table>
 
 ## 📊 Objetivo do Projeto
 
